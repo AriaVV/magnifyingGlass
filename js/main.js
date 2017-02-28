@@ -1,3 +1,8 @@
+/**
+ * author lvman
+ * date   28/2/2017  
+ * 
+ */
 $(function () {
     magnifyingGlass();
 
